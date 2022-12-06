@@ -14,6 +14,9 @@
         android:theme="@style/Theme.UXperience"
         tools:targetApi="31">
         <activity
+            android:name=".tabshow.TabsActivity"
+            android:exported="false" />
+        <activity
             android:name=".dashboard.DashboardActivity"
             android:exported="false" />
         <activity

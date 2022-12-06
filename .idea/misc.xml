@@ -6,6 +6,8 @@
         <entry key="app/src/main/res/layout-v28/activity_dashboard.xml" value="0.28020833333333334" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.22523040771484376" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2703125" />
+        <entry key="app/src/main/res/layout/activity_tabs.xml" value="0.26615384615384613" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.26666666666666666" />
       </map>
     </option>
   </component>
